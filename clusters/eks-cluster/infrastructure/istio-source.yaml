@@ -10,7 +10,7 @@ spec:
     branch: main
   secretRef:
     name: github-auth
-  url: https://github.com/TV4/k8s-istio
+  url: https://github.com/TV4/k8s-istio-system
   ignore: |
     /*
     !/flux/
